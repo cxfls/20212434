@@ -137,7 +137,7 @@
 
    사전 조건 : [Normal / Command 모드]
 
-* q<저장할 매크로 문자>
+q<저장할 매크로 문자>
 
 <img width="612" alt="스크린샷 2022-06-05 오후 5 15 50" src="https://user-images.githubusercontent.com/106877669/172041843-29b5ee78-a848-42b3-adb7-663d4c59c0f9.png">
 
