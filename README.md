@@ -86,6 +86,8 @@
 
     현재 세션의 작업 상태를 출력한다.
 
+<img width="612" alt="스크린샷 2022-06-05 오후 6 23 19" src="https://user-images.githubusercontent.com/106877669/172044093-16fc8be9-b7c2-426f-a25c-bc6f2d7bab18.png">
+
 
 **사용 구문**
 
@@ -113,6 +115,8 @@
     kill [옵션] [pid]
 
     예를 들어 실행중인 특정 프로세스를 죽이고 싶다면 ps 명령어를 통해 해당 프로세스의 pid를 얻고 kill 명령어의 파라미터로 넘겨 실행하면 프로세스를 종료시킬 수 있다.
+
+<img width="612" alt="스크린샷 2022-06-05 오후 6 24 15" src="https://user-images.githubusercontent.com/106877669/172044099-083116f0-2381-402a-ba14-bd584f1ec346.png">
 
 
 **사용 예시**
