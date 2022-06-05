@@ -187,6 +187,6 @@ q<저장할 매크로 문자>
 
 <img width="612" alt="스크린샷 2022-06-05 오후 5 25 26" src="https://user-images.githubusercontent.com/106877669/172042102-1056960e-042d-4de9-a045-5bc108747eb6.png">
 
-      :wq! 또는 x
+    :wq! 또는 x
 
     *주의 : let@변수명='임의의 문자 - 사용자가 해석할 수 없음'
