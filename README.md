@@ -62,10 +62,11 @@
 
 <img width="618" alt="스크린샷 2022-06-05 오후 4 40 05" src="https://user-images.githubusercontent.com/106877669/172040715-6c3dff90-9747-4846-88bf-921c902ded02.png">
 
+|명령어|설명|
 |ps -f|풀 포맷으로 출력|
 |ps -l|긴 포맷으로 출력|
 |ps -p 1|프로세스 번호가 1인 프로세스 출력|
-|ps -ef / more|모든 프로세스를 풀 포맷으로 출력, more 명령어를 이용하여 페이지 단위로 출력|
+|ps -ef | more|모든 프로세스를 풀 포맷으로 출력, more 명령어를 이용하여 페이지 단위로 출력|
 
 <img width="618" alt="스크린샷 2022-06-05 오후 4 41 41" src="https://user-images.githubusercontent.com/106877669/172040717-e74bc178-cd6a-4179-862c-7ca54bcb0209.png">
 
