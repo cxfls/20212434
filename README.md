@@ -175,15 +175,15 @@ q<저장할 매크로 문자>
 
 **1. 현재 편집중 내용을 저장 후 ~/.vimrc를 열기(:e 또는 :r)**
 
-   :w
+    :w
 
-   :e~/.vimrc
+    :e~/.vimrc
 
 **2. insert모드 전환 후 저장할 매크로 이름을 변수로 하여 사용한 매크로 저장하기**
 
-   i / a
+    i / a
 
-   let@<변수명>='cntl + r ctrl + r <마지막 사용 매크로 문자>'
+    let@<변수명>='cntl + r ctrl + r <마지막 사용 매크로 문자>'
 
 <img width="612" alt="스크린샷 2022-06-05 오후 5 25 26" src="https://user-images.githubusercontent.com/106877669/172042102-1056960e-042d-4de9-a045-5bc108747eb6.png">
 
